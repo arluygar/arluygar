@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @arluygar
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning HTML and JavaScript.
-- 📫 My e-mail address where you can reach me: arluygar@outlook.com
+### Hi! Welcome to my GitHub page. 👋
 
-<!---
-arluygar/arluygar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I'm @arluygar. A high school student interested in coding.
+
+![Profile Views](https://komarev.com/ghpvc/?username=arluygar)
+
+![arluygar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arluygar&show_icons=true)
+
+## Contact Me 📫
+
+You can touch me via e-mail!
+arluygar@outlook.com
