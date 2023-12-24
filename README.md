@@ -1,4 +1,4 @@
-### Hi! Welcome to my GitHub page. 👋
+### Hi! Welcome to my GitHub page. 👋  (Turkish below / Türkçesi aşağıda ⬇)
 
 
 I'm @arluygar. A high school student interested in coding.
@@ -11,3 +11,13 @@ I'm @arluygar. A high school student interested in coding.
 
 You can touch me via e-mail!
 arluygar@outlook.com
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Merhaba! GitHub sayfama hoşgeldiniz. 👋
+
+
+Ben @arluygar. Kodlamaya meraklı bir lise öğrencisi.
+
+## Benimle iletişime geçin 📫
+Bana e-mail 
