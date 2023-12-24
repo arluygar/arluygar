@@ -1,4 +1,4 @@
-### Hi! Welcome to my GitHub page. 👋  (Turkish below / Türkçesi aşağıda ⬇)
+### Hi! Welcome to my GitHub page. 👋 
 
 
 I'm @arluygar. A high school student interested in coding.
