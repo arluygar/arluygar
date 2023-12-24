@@ -11,13 +11,3 @@ I'm @arluygar. A high school student interested in coding.
 
 You can touch me via e-mail!
 arluygar@outlook.com
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Merhaba! GitHub sayfama hoşgeldiniz. 👋
-
-
-Ben @arluygar. Kodlamaya meraklı bir lise öğrencisi.
-
-## Benimle iletişime geçin 📫
-Bana e-mail 
